@@ -1,5 +1,8 @@
 this is the 1st message
 this is the 2nd message
-message from develop branch
+message from develop brach
 adding the record
 added the record
+this message is from featurued branch 2
+this message is to bring git conflict
+
