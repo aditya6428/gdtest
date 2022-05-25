@@ -2,3 +2,4 @@ this is the 1st message
 this is the 2nd message
 message from develop branch
 this message is from featurued branch 2
+this message is to bring git conflict
